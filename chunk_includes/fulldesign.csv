@@ -1,0 +1,129 @@
+item,sentver,expected,sentence,cohort,rhyme,unrelated,stimulus
+1,1,bat,The baseball player adjusted his grip and swung the heavy wooden bat.,bath,pat,mud,The baseball player adjusted his grip and swung the heavy wooden ____.
+1,2,bat,The cricketer polished the surface of his willow bat.,bath,pat,mud,The cricketer polished the surface of his willow ____.
+1,3,bat,"The cricket player wants his own glove, ball and bat.",bath,pat,mud,"The cricket player wants his own glove, ball and ____."
+1,4,bat,"With bases loaded, he delivered a clutch hit with his trusty bat.",bath,pat,mud,"With bases loaded, he delivered a clutch hit with his trusty ____."
+2,1,bug,The engineer pushed an update to patch the bug.,bus,rug,lack,The engineer pushed an update to patch the ____.
+2,2,bug,Everything was running smoothly until a sudden crash revealed a critical bug.,bus,rug,lack,Everything was running smoothly until a sudden crash revealed a critical ____.
+2,3,bug,The programmer stayed up all night trying to fix the mysterious software bug.,bus,rug,lack,The programmer stayed up all night trying to fix the mysterious software ____.
+2,4,bug,The outdated system failed during a routine task caused by a software bug.,bus,rug,lack,The outdated system failed during a routine task caused by a software ____.
+3,1,cake,"For her birthday, she asked for a chocolate cake.",cage,fake,hose,"For her birthday, she asked for a chocolate ____."
+3,2,cake,She followed her grandmother's recipe to make a moist carrot cake.,cage,fake,hose,She followed her grandmother's recipe to make a moist carrot ____.
+3,3,cake,The baker carefully decorated the three-tiered wedding cake.,cage,fake,hose,The baker carefully decorated the three-tiered wedding ____.
+3,4,cake,"At the party, everyone gathered around to sing before cutting the cake.",cage,fake,hose,"At the party, everyone gathered around to sing before cutting the ____."
+4,1,cat,She heard a meow and saw a small cat.,cap,hat,toy,She heard a meow and saw a small ____.
+4,2,cat,"We thought we were adopting a guard dog, but ended up with a fluffy cat.",cap,hat,toy,"We thought we were adopting a guard dog, but ended up with a fluffy ____."
+4,3,cat,The children left out a bowl of milk for the stray cat.,cap,hat,toy,The children left out a bowl of milk for the stray ____.
+4,4,cat,"The fish tank needed a secure lid because of our curious, paw-dipping cat.",cap,hat,toy,"The fish tank needed a secure lid because of our curious, paw-dipping ____."
+5,1,coat,"As the winter wind howled outside, she reached for her warm wool coat.",comb,goat,teeth,"As the winter wind howled outside, she reached for her warm wool ____."
+5,2,coat,She forgot her umbrella but brought her rain coat.,comb,goat,teeth,She forgot her umbrella but brought her rain ____.
+5,3,coat,"Before leaving in the snow, he put on his thick coat.",comb,goat,teeth,"Before leaving in the snow, he put on his thick ____."
+5,4,coat,"It was freezing outside, so he zipped up his coat.",comb,goat,teeth,"It was freezing outside, so he zipped up his ____."
+6,1,dish,"After finishing dinner, she carried the empty plate to the kitchen sink to wash the dish.",dip,fish,bear,"After finishing dinner, she carried the empty plate to the kitchen sink to wash the ____."
+6,2,dish,"For the potluck, they each brought a different dish.",dip,fish,bear,"For the potluck, they each brought a different ____."
+6,3,dish,The cooking show challenged contestants to prepare a signature dish.,dip,fish,bear,The cooking show challenged contestants to prepare a signature ____.
+6,4,dish,The restaurant's specialty was a traditional Moroccan dish.,dip,fish,bear,The restaurant's specialty was a traditional Moroccan ____.
+7,1,lid,Be careful when removing the hot saucepan's metal lid.,lip,bid,sun,Be careful when removing the hot saucepan's metal ____.
+7,2,lid,"Designed to trap heat and prevent spills, the thermos won't keep your coffee hot without its insulated lid.",lip,bid,sun,"Designed to trap heat and prevent spills, the thermos won't keep your coffee hot without its insulated ____."
+7,3,lid,The perfume evaporated because the bottle had a loose lid.,lip,bid,sun,The perfume evaporated because the bottle had a loose ____.
+7,4,lid,Steam poured out as the boiling water lifted the teapot lid..,lip,bid,sun,Steam poured out as the boiling water lifted the teapot ____.
+8,1,moon,The astronauts planted an American flag on the surface of the moon.,moose,noon,card,The astronauts planted an American flag on the surface of the ____.
+8,2,moon,Last night we stayed up late to watch the crescent moon.,moose,noon,card,Last night we stayed up late to watch the crescent ____.
+8,3,moon,The werewolf let out a terrifying howl at the sight of the moon.,moose,noon,card,The werewolf let out a terrifying howl at the sight of the ____.
+8,4,moon,Ancient civilizations tracked the cycles of the waxing and waning moon.,moose,noon,card,Ancient civilizations tracked the cycles of the waxing and waning ____.
+9,1,mud,"After the heavy rain, the children jumped gleefully in the thick brown mud.",mug,bud,web,"After the heavy rain, the children jumped gleefully in the thick brown ____."
+9,2,mud,The pottery class started by kneading the damp clay-like mud.,mug,bud,web,The pottery class started by kneading the damp clay-like ____.
+9,3,mud,"The day after a hard rainfall, the hiker slipped and fell face-first into the wet, sticky mud.",mug,bud,web,"The day after a hard rainfall, the hiker slipped and fell face-first into the wet, sticky ____."
+9,4,mud,The archaeologists carefully brushed away layers of ancient dry mud.,mug,bud,web,The archaeologists carefully brushed away layers of ancient dry ____.
+10,1,nun,"After taking her vows, she devoted her life to serving God as a nun.",nut,fun,tag,"After taking her vows, she devoted her life to serving God as a ____."
+10,2,nun,She left her worldly possessions behind to join the cloister as a nun.,nut,fun,tag,She left her worldly possessions behind to join the cloister as a ____.
+10,3,nun,The hospital's most dedicated nurse was actually a Franciscan holy nun.,nut,fun,tag,The hospital's most dedicated nurse was actually a Franciscan holy ____.
+10,4,nun,"During the Middle Ages, many noblewomen who didn't marry entered cloistered life as a nun.",nut,fun,tag,"During the Middle Ages, many noblewomen who didn't marry entered cloistered life as a ____."
+11,1,pet,Their apartment complex charged a $300 deposit for any resident owning a pet.,pen,net,shoot,Their apartment complex charged a $300 deposit for any resident owning a ____.
+11,2,pet,The landlord's strict policy stated no animals allowed except one small kennle trained pet.,pen,net,shoot,The landlord's strict policy stated no animals allowed except one small kennle trained ____.
+11,3,pet,His allergies acted up whenever he visited friends who owned a furry pet.,pen,net,shoot,His allergies acted up whenever he visited friends who owned a furry ____.
+11,4,pet,The insurance policy had surprising coverage for emergency veterinary care for a pet.,pen,net,shoot,The insurance policy had surprising coverage for emergency veterinary care for a ____.
+12,1,band,He played the trumpet in the school band.,bank,sand,mist,He played the trumpet in the school ____.
+12,2,band,"On her ring finger, she wore a silver wedding band.",bank,sand,mist,"On her ring finger, she wore a silver wedding ____."
+12,3,band,"After the wedding ceremony, the guests danced all night to the live band.",bank,sand,mist,"After the wedding ceremony, the guests danced all night to the live ____."
+12,4,band,The radio station announced an upcoming concert featuring the famous jazz band.,bank,sand,mist,The radio station announced an upcoming concert featuring the famous jazz ____.
+13,1,boat,The fishermen set out at dawn in their small wooden boat.,bowl,coat,knife,The fishermen set out at dawn in their small wooden ____.
+13,2,boat,The wealthy businessman docked his luxury yacht next to our modest boat.,bowl,coat,knife,The wealthy businessman docked his luxury yacht next to our modest ____.
+13,3,boat,We rowed gently down the river in a boat.,bowl,coat,knife,We rowed gently down the river in a ____.
+13,4,boat,The stormy waves nearly capsized the tiny fishing boat.,bowl,coat,knife,The stormy waves nearly capsized the tiny fishing ____.
+14,1,chips,He dipped the salsa with tortilla chips.,chicks,ships,cats,He dipped the salsa with tortilla ____.
+14,2,chips,She grabbed a handful of potato chips.,chicks,ships,cats,She grabbed a handful of potato ____.
+14,3,chips,He went to the pub and ordered fish and chips.,chicks,ships,cats,He went to the pub and ordered fish and ____.
+14,4,chips,The flooring of the playground was uncomfortable while barefoot because of the wood chips.,chicks,ships,cats,The flooring of the playground was uncomfortable while barefoot because of the wood ____.
+15,1,cone,The street vendor handed me my soft-serve vanilla in a crispy sugar cone.,comb,moan,block,The street vendor handed me my soft-serve vanilla in a crispy sugar ____.
+15,2,cone,The geometry teacher demonstrated how to calculate the volume of a three-dimensional cone.,comb,moan,block,The geometry teacher demonstrated how to calculate the volume of a three-dimensional ____.
+15,3,cone,He chose two scoops of lemon gelato in a waffle cone.,comb,moan,block,He chose two scoops of lemon gelato in a waffle ____.
+15,4,cone,The traffic officer waved cars around the fallen power line using a bright orange cone.,comb,moan,block,The traffic officer waved cars around the fallen power line using a bright orange ____.
+16,1,corn,She removed the bright yellow kernels from the cob of fresh corn.,cord,horn,mat,She removed the bright yellow kernels from the cob of fresh ____.
+16,2,corn,He bought a bag of popcorn and kettle corn.,cord,horn,mat,He bought a bag of popcorn and kettle ____.
+16,3,corn,The harvester rumbled through acres of waist-high corn.,cord,horn,mat,The harvester rumbled through acres of waist-high ____.
+16,4,corn,The vegetarian chili was packed with black beans and sweet corn.,cord,horn,mat,The vegetarian chili was packed with black beans and sweet ____.
+17,1,doll,She carefully brushed the synthetic hair of her collectible doll.,dog,ball,match,She carefully brushed the synthetic hair of her collectible ____.
+17,2,doll,The museum's toy exhibit featured an original 1960s Barbie doll.,dog,ball,match,The museum's toy exhibit featured an original 1960s Barbie ____.
+17,3,doll,"At the antique shop, we found a rare 19th century porcelain doll.",dog,ball,match,"At the antique shop, we found a rare 19th century porcelain ____."
+17,4,doll,The toddler held her tiny handmade rag doll.,dog,ball,match,The toddler held her tiny handmade rag ____.
+18,1,hat,She wore a wide-brimmed sun hat.,ham,cat,bun,She wore a wide-brimmed sun ____.
+18,2,hat,The magician pulled a rabbit out of his tall black hat.,ham,cat,bun,The magician pulled a rabbit out of his tall black ____.
+18,3,hat,He tipped his wide-brimmed cowboy hat.,ham,cat,bun,He tipped his wide-brimmed cowboy ____.
+18,4,hat,The detective's trademark was his deerstalker hat.,ham,cat,bun,The detective's trademark was his deerstalker ____.
+19,1,knight,"The king tapped each shoulder with his sword, officially dubbing the warrior a knight.",knife,kite,horn,"The king tapped each shoulder with his sword, officially dubbing the warrior a ____."
+19,2,knight,The museum displayed the authentic 14th-century armor of an English knight.,knife,kite,horn,The museum displayed the authentic 14th-century armor of an English ____.
+19,3,knight,"After years of training, the squire finally earned the title of knight.",knife,kite,horn,"After years of training, the squire finally earned the title of ____."
+19,4,knight,At the round table sat King Arthur and his most trusted knight.,knife,kite,horn,At the round table sat King Arthur and his most trusted ____.
+20,1,knot,He tied a perfect sailor's knot.,knob,dot,cane,He tied a perfect sailor's ____.
+20,2,knot,The sailor twisted the rope into a perfect knot.,knob,dot,cane,The sailor twisted the rope into a perfect ____.
+20,3,knot,"She tried to untangle the necklace, but it ended in a tight knot.",knob,dot,cane,"She tried to untangle the necklace, but it ended in a tight ____."
+20,4,knot,The boy scout demonstrated how to make a secure square knot.,knob,dot,cane,The boy scout demonstrated how to make a secure square ____.
+21,1,lock,She turned the key three times but still couldn't open the stubborn lock.,log,sock,beach,She turned the key three times but still couldn't open the stubborn ____.
+21,2,lock,"After the break-in, they installed a high-tech fingerprint lock.",log,sock,beach,"After the break-in, they installed a high-tech fingerprint ____."
+21,3,lock,The gate wouldn't budge until he turned the ancient iron lock.,log,sock,beach,The gate wouldn't budge until he turned the ancient iron ____.
+21,4,lock,His motorcycle was chained to the post with a heavy-duty lock.,log,sock,beach,His motorcycle was chained to the post with a heavy-duty ____.
+22,1,mat,She wiped her shoes on the welcome mat.,map,bat,cart,She wiped her shoes on the welcome ____.
+22,2,mat,He rolled up his yoga mat.,map,bat,cart,He rolled up his yoga ____.
+22,3,mat,The wrestler slammed his opponent onto the padded mat.,map,bat,cart,The wrestler slammed his opponent onto the padded ____.
+22,4,mat,They laid the picnic on a straw mat.,map,bat,cart,They laid the picnic on a straw ____.
+23,1,net,The fishermen hauled up their fishing net.,neck,jet,pot,The fishermen hauled up their fishing ____.
+23,2,net,The basketball swished through the hoop without touching the net.,neck,jet,pot,The basketball swished through the hoop without touching the ____.
+23,3,net,The trapeze artist fell safely into the stretched safety net.,neck,jet,pot,The trapeze artist fell safely into the stretched safety ____.
+23,4,net,The soccer goalie dove to protect the right corner of the net.,neck,jet,pot,The soccer goalie dove to protect the right corner of the ____.
+24,1,note,She scribbled a reminder on the yellow sticky note.,nose,goat,ship,She scribbled a reminder on the yellow sticky ____.
+24,2,note,He sang perfectly and hit the high note.,nose,goat,ship,He sang perfectly and hit the high ____.
+24,3,note,The pianist's fingers lingered on the final haunting note.,nose,goat,ship,The pianist's fingers lingered on the final haunting ____.
+24,4,note,The professor forgot to bring her lecture note.,nose,goat,ship,The professor forgot to bring her lecture ____.
+25,1,purse,"After paying at the register, she put her wallet back in her designer purse.",pearl,nurse,bell,"After paying at the register, she put her wallet back in her designer ____."
+25,2,purse,The fashionista coordinated her shoes perfectly with her patent leather purse.,pearl,nurse,bell,The fashionista coordinated her shoes perfectly with her patent leather ____.
+25,3,purse,She clutched her wallet and phone inside her purse.,pearl,nurse,bell,She clutched her wallet and phone inside her ____.
+25,4,purse,The grandmother found some loose change in her crocheted purse.,pearl,nurse,bell,The grandmother found some loose change in her crocheted ____.
+26,1,rope,The scout demonstrated how to tie a secure knot using nylon rope.,robe,soap,jet,The scout demonstrated how to tie a secure knot using nylon ____.
+26,2,rope,The mountain climber secured his harness to the safety rope.,robe,soap,jet,The mountain climber secured his harness to the safety ____.
+26,3,rope,The kidnapper tied the hostage's hands with a rough hemp rope.,robe,soap,jet,The kidnapper tied the hostage's hands with a rough hemp ____.
+26,4,rope,"The cowboy twirled his lasso, preparing to throw the braided rope.",robe,soap,jet,"The cowboy twirled his lasso, preparing to throw the braided ____."
+27,1,rose,The old love letter still smelled faintly of dried rose.,road,hose,sock,The old love letter still smelled faintly of dried ____.
+27,2,rose,The gardener carefully pruned the thorny red rose.,road,hose,sock,The gardener carefully pruned the thorny red ____.
+27,3,rose,The bouquet included a fragrant red rose.,road,hose,sock,The bouquet included a fragrant red ____.
+27,4,rose,"On Valentine's Day, he gave her a beautiful red rose.",road,hose,sock,"On Valentine's Day, he gave her a beautiful red ____."
+28,1,shell,The boy cracked open the walnut's hard shell.,shed,bell,mug,The boy cracked open the walnut's hard ____.
+28,2,shell,She peeled the egg's cracked shell.,shed,bell,mug,She peeled the egg's cracked ____.
+28,3,shell,The turtle hid inside its hard shell.,shed,bell,mug,The turtle hid inside its hard ____.
+28,4,shell,The chef garnished the oyster with lemon on its half shell.,shed,bell,mug,The chef garnished the oyster with lemon on its half ____.
+29,1,suit,The astronaut began pre-breathing before donning the space suit.,soup,boot,fan,The astronaut began pre-breathing before donning the space ____.
+29,2,suit,The scuba instructor inspected each student's wetsuit and buoyancy control suit.,soup,boot,fan,The scuba instructor inspected each student's wetsuit and buoyancy control ____.
+29,3,suit,"For his wedding day, the groom rented a classic tuxedo suit.",soup,boot,fan,"For his wedding day, the groom rented a classic tuxedo ____."
+29,4,suit,The firefighter quickly zipped up his flame-resistant suit.,soup,boot,fan,The firefighter quickly zipped up his flame-resistant ____.
+30,1,wing,The injured bird struggled to fly with its broken left wing.,wig,king,mill,The injured bird struggled to fly with its broken left ____.
+30,2,wing,She restored the angel statue's broken right wing.,wig,king,mill,She restored the angel statue's broken right ____.
+30,3,wing,The aircraft mechanic inspected the damaged left wing.,wig,king,mill,The aircraft mechanic inspected the damaged left ____.
+30,4,wing,The bird fractured its left wing.,wig,king,mill,The bird fractured its left ____.
+31,1,stone,The archaeologist brushed dirt off the carved rune stone.,stove,tone,dart,The archaeologist brushed dirt off the carved rune ____.
+31,2,stone,The mason carefully chiseled the granite stone.,stove,tone,dart,The mason carefully chiseled the granite ____.
+31,3,stone,The tomb was covered with a single carved stone.,stove,tone,dart,The tomb was covered with a single carved ____.
+31,4,stone,The hiker found a wishing stone.,stove,tone,dart,The hiker found a wishing ____.
+32,1,box,She wrapped the gift and placed it in a box.,boss,fox,king,She wrapped the gift and placed it in a ____.
+32,2,box,The waiter brought the leftovers in a takeout box.,boss,fox,king,The waiter brought the leftovers in a takeout ____.
+32,3,box,The delivery worker carried a heavy cardboard box.,boss,fox,king,The delivery worker carried a heavy cardboard ____.
+32,4,box,The kitten curled up inside the empty shoe box.,boss,fox,king,The kitten curled up inside the empty shoe ____.

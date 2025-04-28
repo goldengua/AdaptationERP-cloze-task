@@ -1,0 +1,5 @@
+﻿item,sentence,stimulus,expected,explanation
+p1,The student is going to the library to borrow a book,The student is going to the library to borrow a ____.,book,"The sentence is likely to continue with the word ""book"". Please input ""book"" in the textbox. "
+p2,"Amelia got a driving licence, and will buy her own car soon.","Amelia got a driving licence, and will buy her own ____.",car,"The sentence is likely to continue with the word ""car"". Please input ""car"" in the textbox. "
+p3,John nervously asked the attractive girl out on a date yesterday.,John nervously asked the attractive girl out on a ____.,date,"The sentence is likely to continue with the word ""date"". Please input ""date"" in the textbox. "
+p4,Harry intends to propose to Emily and give her the ring tomorrow.,Harry intends to propose to Emily and give her the ____.,ring,"The sentence is likely to continue with the word ""ring"". Please input ""ring"" in the textbox. "
